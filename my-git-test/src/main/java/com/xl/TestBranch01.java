@@ -12,4 +12,7 @@ public class TestBranch01 {
         System.out.println("电脑端加了二行代码");
         //git第13行
     }
+    private void hello(){
+        System.out.println("要隐藏的方法");
+    }
 }
